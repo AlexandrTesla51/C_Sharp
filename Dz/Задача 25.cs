@@ -4,8 +4,13 @@
 
 double Expo(int a, int b)
 {
-    double expo = Math.Pow(a, b);
-    return expo;
+    int exponent = 1;
+    for (int i = 1; i <= b; i++)
+    {
+        exponent = exponent * a;
+    }
+
+    return exponent;
 }
 Console.WriteLine("Введите число для возведения в степень: ");
 int a = int.Parse(Console.ReadLine()!);
