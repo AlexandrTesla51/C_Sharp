@@ -19,8 +19,7 @@ void PrintArray(string[] massive)
 {
     for (int i = 0; i < massive.Length; i++)
     {
-        Console.Write(massive[i]);
-        Console.Write(" ");
+        Console.Write(massive[i] + " ");
     }
 }
 
