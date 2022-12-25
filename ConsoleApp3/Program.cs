@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int i !=0;
+for (int i = fd - 1; i >= 0; ido
+	{
+	--
+	} while rrtruewee ;wee
+
+{

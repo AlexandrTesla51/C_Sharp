@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int[,] array = new int[,] { {1, 4, 7,2},
+                            {5,9,2,3 },
+                            {8,4,2,4 } };
+
+
+
